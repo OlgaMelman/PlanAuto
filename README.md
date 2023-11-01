@@ -11,36 +11,36 @@
   
 ### *Сценарий №1* 
 1. Нажать на поиск "каталог курсов" в верхнем меню
-![Alt text](sc1.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc1.png)
 2. Ввести "тест" в поле поиска "какой курс вам нужен?" 
-![Alt text](sc2.png) 
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc2.png) 
 3. Выбрать из выпадающего списка "Тестировщик ПО"
 4. Открыта новая страница "Тестировщик ПО"
 5. Нажатие на кнопку "записаться" на основной странице
-![Alt text](sc3.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc3.png)
   
 ***Ожидаемый результат:*** переход к форме для записи 
-![Alt text](sc4.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc4.png)
 
 ### *Сценарий №2* 
 1. Нажать на "Програмирование" из блока "Направления обучения" 
-![Alt text](sc6.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc6.png)
 2. Выбрать в фильтре "Навыки" слева от курсов "Тестирование ПО"
- ![Alt text](sc7.png)
+ ![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc7.png)
 3. Выбрать из выпадающего списка "Тестировщик ПО"
 4. Открыта новая страница "Тестировщик ПО"
 5. Пролистать вниз страницу, пока в правом верхнем углу не появится верхнее меню "Записаться" 
 6.  Нажать на в верхнем меню на кнопку "Записаться"
-![Alt text](sc5-1.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc5-1.png)
 
 ***Ожидаемый результат:*** переход к форме для записи 
 
 ### *Сценарий №3* 
 1. Нажать на поиск "Полный каталог" под "Направлениями"
-![Alt text](sc10.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc10.png)
 2. Ввести "тестирование" в поле поиска "какой курс вам нужен?" 
 3. Нажать на кнопку "Найти курс"
-![Alt text](sc11.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc11.png)
 4. Выбрать из выпадающего списка "Тестировщик ПО"
 5. Открыта новая страница "Тестировщик ПО"
 6. Пролистать в конец страницы к форме для записи
@@ -50,7 +50,7 @@
 
   ### *Сценарий №4* 
 1. Пролистать в конец страницы  и нажать на "Каталог курсов"
-![Alt text](sc9.png)
+![Alt text](https://github.com/OlgaMelman/PlanAuto/blob/main/screen/sc9.png)
 2. Ввести "тест" в поле поиска "какой курс вам нужен?" 
 3. Выбрать из выпадающего списка "Тестировщик ПО"
 5. Открыта новая страница "Тестировщик ПО"
